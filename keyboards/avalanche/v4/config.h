@@ -64,7 +64,7 @@
 #endif
 
 #ifdef OLED_ENABLE
-#    define OLED_DISPLAY_128X64
+#    define OLED_DISPLAY_128X32
 #    define OLED_TIMEOUT 30000
     #define OLED_FONT_H "keyboards/avalanche/v4/keymaps/daniel/glcdfont.c"
     #define OLED_FONT_WIDTH 8
